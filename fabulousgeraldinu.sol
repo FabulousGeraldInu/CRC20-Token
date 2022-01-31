@@ -1,7 +1,7 @@
 pragma solidity 0.5.16;
 
 // Thanks to: https://github.com/agussaifuddin , @sprawidj
-// Creator: https://github.com/joshschcom/CRC20-Token/edit/main/crc20sample.sol
+// Creator: https://github.com/joshschcom/CRC20-Token/edit/main/crc20sample.sol 
 
 interface IBEP20 {
  
